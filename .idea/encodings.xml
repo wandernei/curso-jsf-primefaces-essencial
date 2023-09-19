@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/abrindo-um-dialogo-suspenso/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/abrindo-um-dialogo-suspenso/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adicionando um dialogo de confirmacao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adicionando um dialogo de confirmacao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adicionando-uma-barra-de-ferramentas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adicionando-uma-barra-de-ferramentas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/como-funciona-a-injecao-de-depedencias/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/como-funciona-a-injecao-de-depedencias/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/componentes-ricos-com-primefaces/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/componentes-ricos-com-primefaces/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configurando-as-dependencias-no-pom.xml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configurando-as-dependencias-no-pom.xml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configurando-o-cdi-no-projeto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configurando-o-cdi-no-projeto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configurando-o-persistence.xml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configurando-o-persistence.xml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configurando-paginacao-na-tabela-de-dados/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configurando-paginacao-na-tabela-de-dados/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/conversao-e-validacao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/conversao-e-validacao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/criando-a-camada-de-persistencia-do-projeto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/criando-a-camada-de-persistencia-do-projeto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/criando-nossa-pagina-xhtml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/criando-nossa-pagina-xhtml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/criando-o-conversor-custmizado/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/criando-o-conversor-custmizado/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/criando-o-formulario-para-o-cadastro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/criando-o-formulario-para-o-cadastro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/criando-um-template-com-facelets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/criando-um-template-com-facelets/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/definindo-o-comando-padrao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/definindo-o-comando-padrao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/escopo-de-um-managed-bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/escopo-de-um-managed-bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exportando-tabela-de-dados-para-excel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exportando-tabela-de-dados-para-excel/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gerenciando-as-transacoes-com-cdi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gerenciando-as-transacoes-com-cdi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implementando-a-exclusao-de-registros/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implementando-a-exclusao-de-registros/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implementando-a-pesquisa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implementando-a-pesquisa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implementando-edicao-de-registros/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implementando-edicao-de-registros/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implementando-o-cadastro-de-empresa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implementando-o-cadastro-de-empresa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introducao-ao-maven/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introducao-ao-maven/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/limpando-o-estado-de-componentes-com-resetinput/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/limpando-o-estado-de-componentes-com-resetinput/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/listando-empresas-com-tabela-de-dados/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/listando-empresas-com-tabela-de-dados/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapeando-as-entidades/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapeando-as-entidades/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/navegacao-implicita-e-explicita/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/navegacao-implicita-e-explicita/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ordenando-a-tabela-de-dados-por-coluna/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ordenando-a-tabela-de-dados-por-coluna/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/principais-componentes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/principais-componentes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/selecionando-linhas-da-tabela-de-dados/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/selecionando-linhas-da-tabela-de-dados/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validacoes-com-bean-validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validacoes-com-bean-validation/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

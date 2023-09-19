@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/introducao-ao-maven/curso-jsf-e-primefaces-essencial.iml" filepath="$PROJECT_DIR$/introducao-ao-maven/curso-jsf-e-primefaces-essencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conversao-e-validacao/curso-jsf-e-primefaces-essencial (1).iml" filepath="$PROJECT_DIR$/conversao-e-validacao/curso-jsf-e-primefaces-essencial (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/configurando-o-persistence.xml/curso-jsf-e-primefaces-essencial (10).iml" filepath="$PROJECT_DIR$/configurando-o-persistence.xml/curso-jsf-e-primefaces-essencial (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/criando-o-conversor-custmizado/curso-jsf-e-primefaces-essencial (11).iml" filepath="$PROJECT_DIR$/criando-o-conversor-custmizado/curso-jsf-e-primefaces-essencial (11).iml" />
+      <module fileurl="file://$PROJECT_DIR$/validacoes-com-bean-validation/curso-jsf-e-primefaces-essencial (12).iml" filepath="$PROJECT_DIR$/validacoes-com-bean-validation/curso-jsf-e-primefaces-essencial (12).iml" />
+      <module fileurl="file://$PROJECT_DIR$/navegacao-implicita-e-explicita/curso-jsf-e-primefaces-essencial (13).iml" filepath="$PROJECT_DIR$/navegacao-implicita-e-explicita/curso-jsf-e-primefaces-essencial (13).iml" />
+      <module fileurl="file://$PROJECT_DIR$/componentes-ricos-com-primefaces/curso-jsf-e-primefaces-essencial (14).iml" filepath="$PROJECT_DIR$/componentes-ricos-com-primefaces/curso-jsf-e-primefaces-essencial (14).iml" />
+      <module fileurl="file://$PROJECT_DIR$/criando-um-template-com-facelets/curso-jsf-e-primefaces-essencial (15).iml" filepath="$PROJECT_DIR$/criando-um-template-com-facelets/curso-jsf-e-primefaces-essencial (15).iml" />
+      <module fileurl="file://$PROJECT_DIR$/gerenciando-as-transacoes-com-cdi/curso-jsf-e-primefaces-essencial (16).iml" filepath="$PROJECT_DIR$/gerenciando-as-transacoes-com-cdi/curso-jsf-e-primefaces-essencial (16).iml" />
+      <module fileurl="file://$PROJECT_DIR$/implementando-edicao-de-registros/curso-jsf-e-primefaces-essencial (17).iml" filepath="$PROJECT_DIR$/implementando-edicao-de-registros/curso-jsf-e-primefaces-essencial (17).iml" />
+      <module fileurl="file://$PROJECT_DIR$/implementando-o-cadastro-de-empresa/curso-jsf-e-primefaces-essencial (18).iml" filepath="$PROJECT_DIR$/implementando-o-cadastro-de-empresa/curso-jsf-e-primefaces-essencial (18).iml" />
+      <module fileurl="file://$PROJECT_DIR$/adicionando-uma-barra-de-ferramentas/curso-jsf-e-primefaces-essencial (19).iml" filepath="$PROJECT_DIR$/adicionando-uma-barra-de-ferramentas/curso-jsf-e-primefaces-essencial (19).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapeando-as-entidades/curso-jsf-e-primefaces-essencial (2).iml" filepath="$PROJECT_DIR$/mapeando-as-entidades/curso-jsf-e-primefaces-essencial (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/criando-o-formulario-para-o-cadastro/curso-jsf-e-primefaces-essencial (20).iml" filepath="$PROJECT_DIR$/criando-o-formulario-para-o-cadastro/curso-jsf-e-primefaces-essencial (20).iml" />
+      <module fileurl="file://$PROJECT_DIR$/adicionando um dialogo de confirmacao/curso-jsf-e-primefaces-essencial (21).iml" filepath="$PROJECT_DIR$/adicionando um dialogo de confirmacao/curso-jsf-e-primefaces-essencial (21).iml" />
+      <module fileurl="file://$PROJECT_DIR$/exportando-tabela-de-dados-para-excel/curso-jsf-e-primefaces-essencial (22).iml" filepath="$PROJECT_DIR$/exportando-tabela-de-dados-para-excel/curso-jsf-e-primefaces-essencial (22).iml" />
+      <module fileurl="file://$PROJECT_DIR$/implementando-a-exclusao-de-registros/curso-jsf-e-primefaces-essencial (23).iml" filepath="$PROJECT_DIR$/implementando-a-exclusao-de-registros/curso-jsf-e-primefaces-essencial (23).iml" />
+      <module fileurl="file://$PROJECT_DIR$/listando-empresas-com-tabela-de-dados/curso-jsf-e-primefaces-essencial (24).iml" filepath="$PROJECT_DIR$/listando-empresas-com-tabela-de-dados/curso-jsf-e-primefaces-essencial (24).iml" />
+      <module fileurl="file://$PROJECT_DIR$/como-funciona-a-injecao-de-depedencias/curso-jsf-e-primefaces-essencial (25).iml" filepath="$PROJECT_DIR$/como-funciona-a-injecao-de-depedencias/curso-jsf-e-primefaces-essencial (25).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordenando-a-tabela-de-dados-por-coluna/curso-jsf-e-primefaces-essencial (26).iml" filepath="$PROJECT_DIR$/ordenando-a-tabela-de-dados-por-coluna/curso-jsf-e-primefaces-essencial (26).iml" />
+      <module fileurl="file://$PROJECT_DIR$/selecionando-linhas-da-tabela-de-dados/curso-jsf-e-primefaces-essencial (27).iml" filepath="$PROJECT_DIR$/selecionando-linhas-da-tabela-de-dados/curso-jsf-e-primefaces-essencial (27).iml" />
+      <module fileurl="file://$PROJECT_DIR$/configurando-as-dependencias-no-pom.xml/curso-jsf-e-primefaces-essencial (28).iml" filepath="$PROJECT_DIR$/configurando-as-dependencias-no-pom.xml/curso-jsf-e-primefaces-essencial (28).iml" />
+      <module fileurl="file://$PROJECT_DIR$/configurando-paginacao-na-tabela-de-dados/curso-jsf-e-primefaces-essencial (29).iml" filepath="$PROJECT_DIR$/configurando-paginacao-na-tabela-de-dados/curso-jsf-e-primefaces-essencial (29).iml" />
+      <module fileurl="file://$PROJECT_DIR$/principais-componentes/curso-jsf-e-primefaces-essencial (3).iml" filepath="$PROJECT_DIR$/principais-componentes/curso-jsf-e-primefaces-essencial (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/criando-a-camada-de-persistencia-do-projeto/curso-jsf-e-primefaces-essencial (30).iml" filepath="$PROJECT_DIR$/criando-a-camada-de-persistencia-do-projeto/curso-jsf-e-primefaces-essencial (30).iml" />
+      <module fileurl="file://$PROJECT_DIR$/limpando-o-estado-de-componentes-com-resetinput/curso-jsf-e-primefaces-essencial (31).iml" filepath="$PROJECT_DIR$/limpando-o-estado-de-componentes-com-resetinput/curso-jsf-e-primefaces-essencial (31).iml" />
+      <module fileurl="file://$PROJECT_DIR$/implementando-a-pesquisa/curso-jsf-e-primefaces-essencial (4).iml" filepath="$PROJECT_DIR$/implementando-a-pesquisa/curso-jsf-e-primefaces-essencial (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/escopo-de-um-managed-bean/curso-jsf-e-primefaces-essencial (5).iml" filepath="$PROJECT_DIR$/escopo-de-um-managed-bean/curso-jsf-e-primefaces-essencial (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/criando-nossa-pagina-xhtml/curso-jsf-e-primefaces-essencial (6).iml" filepath="$PROJECT_DIR$/criando-nossa-pagina-xhtml/curso-jsf-e-primefaces-essencial (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/definindo-o-comando-padrao/curso-jsf-e-primefaces-essencial (7).iml" filepath="$PROJECT_DIR$/definindo-o-comando-padrao/curso-jsf-e-primefaces-essencial (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/abrindo-um-dialogo-suspenso/curso-jsf-e-primefaces-essencial (8).iml" filepath="$PROJECT_DIR$/abrindo-um-dialogo-suspenso/curso-jsf-e-primefaces-essencial (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/configurando-o-cdi-no-projeto/curso-jsf-e-primefaces-essencial (9).iml" filepath="$PROJECT_DIR$/configurando-o-cdi-no-projeto/curso-jsf-e-primefaces-essencial (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/curso-jsf-primefaces-essencial.iml" filepath="$PROJECT_DIR$/.idea/curso-jsf-primefaces-essencial.iml" />
+    </modules>
+  </component>
+</project>

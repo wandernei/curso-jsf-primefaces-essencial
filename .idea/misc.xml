@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/introducao-ao-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/conversao-e-validacao/pom.xml" />
+        <option value="$PROJECT_DIR$/mapeando-as-entidades/pom.xml" />
+        <option value="$PROJECT_DIR$/principais-componentes/pom.xml" />
+        <option value="$PROJECT_DIR$/implementando-a-pesquisa/pom.xml" />
+        <option value="$PROJECT_DIR$/escopo-de-um-managed-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/criando-nossa-pagina-xhtml/pom.xml" />
+        <option value="$PROJECT_DIR$/definindo-o-comando-padrao/pom.xml" />
+        <option value="$PROJECT_DIR$/abrindo-um-dialogo-suspenso/pom.xml" />
+        <option value="$PROJECT_DIR$/configurando-o-cdi-no-projeto/pom.xml" />
+        <option value="$PROJECT_DIR$/configurando-o-persistence.xml/pom.xml" />
+        <option value="$PROJECT_DIR$/criando-o-conversor-custmizado/pom.xml" />
+        <option value="$PROJECT_DIR$/validacoes-com-bean-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/navegacao-implicita-e-explicita/pom.xml" />
+        <option value="$PROJECT_DIR$/componentes-ricos-com-primefaces/pom.xml" />
+        <option value="$PROJECT_DIR$/criando-um-template-com-facelets/pom.xml" />
+        <option value="$PROJECT_DIR$/gerenciando-as-transacoes-com-cdi/pom.xml" />
+        <option value="$PROJECT_DIR$/implementando-edicao-de-registros/pom.xml" />
+        <option value="$PROJECT_DIR$/implementando-o-cadastro-de-empresa/pom.xml" />
+        <option value="$PROJECT_DIR$/adicionando-uma-barra-de-ferramentas/pom.xml" />
+        <option value="$PROJECT_DIR$/criando-o-formulario-para-o-cadastro/pom.xml" />
+        <option value="$PROJECT_DIR$/adicionando um dialogo de confirmacao/pom.xml" />
+        <option value="$PROJECT_DIR$/exportando-tabela-de-dados-para-excel/pom.xml" />
+        <option value="$PROJECT_DIR$/implementando-a-exclusao-de-registros/pom.xml" />
+        <option value="$PROJECT_DIR$/listando-empresas-com-tabela-de-dados/pom.xml" />
+        <option value="$PROJECT_DIR$/como-funciona-a-injecao-de-depedencias/pom.xml" />
+        <option value="$PROJECT_DIR$/ordenando-a-tabela-de-dados-por-coluna/pom.xml" />
+        <option value="$PROJECT_DIR$/selecionando-linhas-da-tabela-de-dados/pom.xml" />
+        <option value="$PROJECT_DIR$/configurando-as-dependencias-no-pom.xml/pom.xml" />
+        <option value="$PROJECT_DIR$/configurando-paginacao-na-tabela-de-dados/pom.xml" />
+        <option value="$PROJECT_DIR$/criando-a-camada-de-persistencia-do-projeto/pom.xml" />
+        <option value="$PROJECT_DIR$/limpando-o-estado-de-componentes-com-resetinput/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="temurin-1.8" project-jdk-type="JavaSDK" />
+</project>

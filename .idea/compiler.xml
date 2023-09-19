@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="curso-jsf-e-primefaces-essencial (8)" />
+        <module name="curso-jsf-e-primefaces-essencial (31)" />
+        <module name="curso-jsf-e-primefaces-essencial (21)" />
+        <module name="curso-jsf-e-primefaces-essencial (6)" />
+        <module name="curso-jsf-e-primefaces-essencial (4)" />
+        <module name="curso-jsf-e-primefaces-essencial (2)" />
+        <module name="curso-jsf-e-primefaces-essencial (15)" />
+        <module name="curso-jsf-e-primefaces-essencial (27)" />
+        <module name="curso-jsf-e-primefaces-essencial (17)" />
+        <module name="curso-jsf-e-primefaces-essencial (29)" />
+        <module name="curso-jsf-e-primefaces-essencial (11)" />
+        <module name="curso-jsf-e-primefaces-essencial (23)" />
+        <module name="curso-jsf-e-primefaces-essencial (13)" />
+        <module name="curso-jsf-e-primefaces-essencial (25)" />
+        <module name="curso-jsf-e-primefaces-essencial" />
+        <module name="curso-jsf-e-primefaces-essencial (19)" />
+        <module name="curso-jsf-e-primefaces-essencial (30)" />
+        <module name="curso-jsf-e-primefaces-essencial (20)" />
+        <module name="curso-jsf-e-primefaces-essencial (9)" />
+        <module name="curso-jsf-e-primefaces-essencial (10)" />
+        <module name="curso-jsf-e-primefaces-essencial (7)" />
+        <module name="curso-jsf-e-primefaces-essencial (5)" />
+        <module name="curso-jsf-e-primefaces-essencial (26)" />
+        <module name="curso-jsf-e-primefaces-essencial (3)" />
+        <module name="curso-jsf-e-primefaces-essencial (16)" />
+        <module name="curso-jsf-e-primefaces-essencial (28)" />
+        <module name="curso-jsf-e-primefaces-essencial (1)" />
+        <module name="curso-jsf-e-primefaces-essencial (18)" />
+        <module name="curso-jsf-e-primefaces-essencial (22)" />
+        <module name="curso-jsf-e-primefaces-essencial (12)" />
+        <module name="curso-jsf-e-primefaces-essencial (24)" />
+        <module name="curso-jsf-e-primefaces-essencial (14)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="curso-jsf-e-primefaces-essencial" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (1)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (10)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (11)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (12)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (13)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (14)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (15)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (16)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (17)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (18)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (19)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (2)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (20)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (21)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (22)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (23)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (24)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (25)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (26)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (27)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (28)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (29)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (3)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (30)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (31)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (4)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (5)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (6)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (7)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (8)" target="1.8" />
+      <module name="curso-jsf-e-primefaces-essencial (9)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
